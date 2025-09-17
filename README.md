@@ -1,6 +1,5 @@
 Conversor de Unidades CLI
 
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 Uma ferramenta simples de linha de comando (CLI) para conversão entre unidades de medida, desenvolvida em Node.js.
 
